@@ -6,11 +6,8 @@
 Aspiring to start my career in Data Science field , I’m eager to embark on a challenging and dynamic journey in machine learning, data analytics, and advanced problem-solving. With a strong foundation in computer science and a passion for innovation, aiming to leverage my technical skills to contribute to cutting-edge projects in Machine Learning. Excited to dedicate myself fully to this role and advance my career in the world of AI and data science while actively contributing to any organization’s growth.
 
 ## 🌐 Socials: [![Visit Count](https://visitcount.itsvg.in/api?id=TDahiya&icon=0&color=0)](https://visitcount.itsvg.in) 
-<a href="https://www.linkedin.com/in/tanishq-dahiya-309681223/">
+<a href="https://www.linkedin.com/in/tdahiya2845/">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50" height="50">
-</a>
-<a href="https://instagram.com/https://www.instagram.com/tanishqdahiya__/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="50" height="50">
 </a>
 
 # 💻 Skills:
