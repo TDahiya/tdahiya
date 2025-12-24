@@ -71,12 +71,3 @@ I enjoy transforming raw data into actionable insights, building data-driven sol
 - Improved model accuracy by **15%** using ensemble techniques
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TDahiya&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDahiya&theme=dark&layout=compact)
-
----
-
-## ✍️ Quote
-> *“Turning data into decisions, and decisions into impact.”*
