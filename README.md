@@ -1,6 +1,6 @@
 # Hi, I'm Tanishq Dahiya 👋
 
-**Data Engineer & AI Engineer** — building data pipelines, LLM evaluation systems, and agentic AI.  
+**Data Engineer & AI Engineer** building data pipelines, LLM evaluation systems, and agentic AI.  
 MSc Computing (AI) · **First Class Honours** · Dublin City University  
 
 📍 Dublin, Ireland &nbsp;|&nbsp; 📧 tanishqd423@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-tdahiya2845-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tdahiya2845/)
@@ -57,23 +57,7 @@ For my MSc practicum I built a 1,645-prompt adversarial benchmark across 5 produ
 - Designed 329 adversarial seed prompts grounded in 14 MITRE ATT&CK techniques, expanded to **1,645 variants** using 4 paraphrasing strategies
 - Built a multi-agent pipeline querying 5 production LLMs (Claude, GPT-4o, DeepSeek, Mistral, Qwen) — **8,225 responses**, **24,675 G-EVAL verdicts**
 - Proposed novel **IIR (Intent-level Inconsistency Rate)** metric — found **60.2% strict inconsistency** across models
-
 ---
-
-## 🚀 Projects
-
-| Project | Stack | Highlight |
-|---------|-------|-----------|
-| **Analytical Pipeline** | dbt · Snowflake · SQL · GitHub Actions | 15+ dbt models, 20+ automated quality tests, star schema DW, CI/CD |
-| **Data Analysis at Scale** | Spark · PySpark · Databricks · AWS S3 | Cloud-native distributed pipeline with schema enforcement at ingestion |
-| **Reddit GME Analysis** | Python · SQL · FinBERT · Granger Causality | R²=0.40, Granger F=23.41 — Reddit volume predicts 40% of GME abnormal returns |
-| **Multi-Agent Research Assistant** | LangGraph · CrewAI · Streamlit | 3 specialised agents with human-in-the-loop approval gate |
-| **RAG Pipeline (EU AI Act)** | LangChain · FAISS · ChromaDB | Auto-evaluation layer: retrieval accuracy, faithfulness, hallucination rate |
-| **LLM Hallucination Eval** | Python · NLP · Prompt Engineering | Gemini 28.3% · GPT-4o 24.2% hallucination across 100+ structured prompts |
-| **AI-Generated Image Detection** | EfficientNet-B3 · CLIP ViT-B/16 · XGBoost · Docker | 3-stream ensemble · macro-F1 **0.8751** · +5.4pp over best single model |
-
----
-
 ## 📚 Education
 
 - **MSc Computing (AI)** · First Class Honours · Dublin City University, Ireland · 2025–2026
